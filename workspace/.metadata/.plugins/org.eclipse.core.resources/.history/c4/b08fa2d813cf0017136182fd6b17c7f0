@@ -1,0 +1,15 @@
+package Fundamentos;
+
+public class TiposPrimitivos {
+	
+	public static void main(String[] args) {
+		
+		//tipo primitivo booleano
+		
+		boolean bo1 = false;
+		boolean bo2 = true;
+		
+		
+	}
+
+}
